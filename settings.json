@@ -1,0 +1,8 @@
+{
+    "debug": true,
+    "token": "<YOUR TOKEN HERE>",
+    "api": "https://api.telegram.org",
+    "hostname": "denvit.work",
+    "port": 30303,
+    "superusers": []
+}
